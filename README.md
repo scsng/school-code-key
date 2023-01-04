@@ -1,1 +1,1 @@
-# school-code-key
+School Code Key
